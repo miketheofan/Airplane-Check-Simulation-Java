@@ -1,5 +1,3 @@
-package exercise4;
-
 abstract public class PlaneComponent extends Object{
 	
 	public PlaneComponent() {
