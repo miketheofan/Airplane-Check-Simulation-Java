@@ -1,5 +1,3 @@
-package exercise4;
-
 public class EquipmentCompartment extends PrivateCompartment{
 
 	private boolean security = false;
