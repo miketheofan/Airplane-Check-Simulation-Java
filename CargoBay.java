@@ -1,5 +1,3 @@
-package exercise4;
-
 public class CargoBay extends PrivateCompartment{
 
 	private boolean security = false;
