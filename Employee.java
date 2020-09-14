@@ -1,5 +1,3 @@
-package exercise4;
-
 abstract public class Employee extends Object{
 	
 	private String name;
