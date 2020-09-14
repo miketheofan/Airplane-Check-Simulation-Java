@@ -1,5 +1,3 @@
-package exercise4;
-
 public class SecurityEmployee extends Employee{
 	
 	public SecurityEmployee(String name) {
