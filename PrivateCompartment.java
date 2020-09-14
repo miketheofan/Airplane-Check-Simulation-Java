@@ -1,5 +1,3 @@
-package exercise4;
-
 public class PrivateCompartment extends PlaneComponent{
 
 	public PrivateCompartment() {
