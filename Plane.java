@@ -1,5 +1,3 @@
-package exercise4;
-
 import java.util.Arrays;
 
 public class Plane extends Object{
