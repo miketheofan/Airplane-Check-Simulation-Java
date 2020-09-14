@@ -1,5 +1,3 @@
-package exercise4;
-
 public class MaintenanceEmployee extends Employee{
 	
 	public MaintenanceEmployee(String name) {
